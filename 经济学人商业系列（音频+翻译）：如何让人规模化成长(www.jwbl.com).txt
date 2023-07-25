@@ -1,0 +1,198 @@
+标题：经济学人商业系列（音频+翻译）：如何让人规模化成长
+
+听力内容：
+
+Business
+
+商业版块
+
+Bartleby
+
+巴托比专栏
+
+Textbook writing
+
+教科书之作
+
+“Scaling People” is not like every other management book -- thank God.
+
+《如何让人规模化成长》和任何其他的管理学书籍都不同，真是谢天谢地。
+
+Too many management books rest on a vague idea that has been stretched to breaking point.
+
+太多的管理学书籍依赖于一个模糊的概念，而这个概念已经被扩充到了接近崩溃的地步。
+
+You can tell from the depth of the margins just how hard an author has had to work to draw the thesis out.
+
+你可以从大片的页边空白看出，作者为了填充论述的篇幅而付出了多大的努力。
+
+Their covers are bright and zingy.
+
+这些书的封面明亮活泼。
+
+Their titles either contain action-packed words like “strive” and “ignite” or give birth to some ghastly new portmanteau like “stressilience” or “charismility”.
+
+书的标题要么包含像“奋力”和“点燃”这样动感十足的词语，要么生造出一些可怕的新复合词，比如“抗压韧性”或“谦逊魅力”。
+
+They are determined to take lessons for bosses from anywhere but an actual business: termites, hunter-gatherers, Novak Djokovic, salad dressing.
+
+它们决心从实际企业之外的任何地方让老板学到东西：白蚁、狩猎采集者、诺瓦克·德约科维奇、沙拉调料。
+
+The unspoken rule of most management titles, it seems, is to avoid the actual practice of management.
+
+大多数管理书籍的标题似乎都有一个潜规则，就是避免提及真正的管理实践。
+
+What a relief, then, to read a book that breaks the mould.
+
+因此，能读到一本打破这一模式的书是多么令人欣慰。
+
+It lands with an intimidating thud.
+
+它的出现有一种威严的派头。
+
+It looks and feels like a textbook.
+
+它看起来和感觉上都像一本教科书。
+
+It is full of exercises and templates.
+
+里面充满了练习题和模板。
+
+And it is unapologetically practical in its focus.
+
+而且它的关注点也是坚持实用性。
+
+“Scaling People” is written by Claire Hughes Johnson, a tech-industry veteran who spent more than a decade at Google before joining Stripe, a digital-payments unicorn, as its chief operating officer in 2014.
+
+《如何让人规模化成长》的作者是科技行业资深从业者克莱尔·休斯·约翰逊，她曾在谷歌工作了十多年，然后在2014年加入数字支付独角兽公司Stripe，担任首席运营官。
+
+By the time she left that role in 2021, the firm had gone from 160 employees to over 7,000.
+
+到2021年她离开这一职位时，公司的员工人数已经从160人增加到7000多人。
+
+In a world of coders, creators and visionaries, her work was to make things work.
+
+在一个由程序员、创造者和愿景提出者组成的世界里，她的工作就是让事情运转起来。
+
+Much of the book is a manual for creating what Ms Hughes Johnson calls an operating system—the set of documents, metrics and processes that produces a consistent framework for making decisions and improving performance.
+
+这本书的大部分内容是关于如何创建休斯·约翰逊所说的运营系统--为决策和提高绩效而打造的前后连贯的框架，这一框架由整套文件、指标和流程构成。
+
+There is a section on planning, with advice on setting good goals and deciding on the cadence of meetings and reviews that sets the right drumbeat for a company.
+
+书中有一节是关于规划的，并提出了一些建议，即如何设定好的目标以及如何确定会议和述评节奏，从而为公司定下合适的行进鼓点。
+
+There is another on hiring people, from building a recruitment pipeline to the interview process and the task of bringing new employees on board.
+
+还有一节是关于招聘的，从建立招聘渠道到面试流程，再到让新员工加入公司。
+
+There are chapters on improving team performance and on giving feedback.
+
+还有几章是关于提高团队绩效和提供反馈的内容。
+
+“Scaling People” is a product of Silicon Valley.
+
+《如何让人规模化成长》是硅谷的产物。
+
+It grapples with the problems of very fast growth; its context is one of founders, developers and product teams.
+
+它努力应对的问题是快速增长，语境是由创始人、开发人员和产品团队组成的。
+
+For incumbents in highly regulated industries or employees in public-sector bureaucracies, the problems of scaling up may seem very remote.
+
+对于现处于受到严格监管的行业的人，或公共部门、官僚体制的员工来说，扩大规模的问题似乎非常遥远。
+
+Stripe's early decision to run a programming competition called “Capture the Flag”, for instance, helped build its reputation as a place for talented developers to go to.
+
+例如，Stripe之前决定举办一场名为“夺旗”的编程竞赛，就帮助它树立了一种声誉，即这是有才华的开发人员应该去的公司。
+
+Established firms need to work less hard to create awareness among potential candidates but may have a tougher time building a name for innovation.
+
+老牌公司不需要花这么多力气在潜在职位候选人中打造知名度，但可能在打造创新型形象方面会有更多困难。
+
+But the insights on which such practices are founded—in this instance, getting candidates to do actual work as part of an application process and filling a hiring pipeline rather than waiting for jobs to open up—are transferable.
+
+但这些做法所依据的深刻见解--在这个例子中，就是让候选人在申请过程中做些实际工作，以及要填充招聘渠道，而不是等到出现职位空缺再开始招聘--是可以迁移的。
+
+And most of the book is devoted to problems that bedevil all industries and companies.
+
+这本书的大部分内容都关注那些困扰所有行业和公司的问题。
+
+Among other things, Ms Hughes Johnson gives tips on how to run an effective meeting; these include having a round of “check-ins” at the start (getting everyone to say what they want from the meeting, for instance) so that people are focused and so that the quietest members of the group participate early.
+
+除了其他方面，休斯·约翰逊还就如何举办有效的会议提出了建议，其中包括在会议开始时进行一轮“签到”(例如，让每个人都说出他们想从会议中得到什么)，这样人们就能集中注意力，小组中最安静的成员也能早早参与进来。
+
+She offers advice on how to do performance reviews, which decisions you can and should delegate to other people, and how to save high-performing employees from burnout.
+
+她还提供了一些建议，包括如何进行绩效评估、哪些决策你可以而且应该下放给其他人，以及如何让能力强的员工避免工作倦怠。
+
+It is all refreshingly pragmatic.
+
+这些都务实得让人耳目一新。
+
+Behind the tactics lies a clear philosophy, which is to make the implicit explicit.
+
+所有这些策略的背后是一种清晰的哲学，那就是让隐含的东西显化。
+
+That means being clear about how specific decisions are going to get taken: is this a consensual process or an autocratic one?
+
+这意味着明确地描述具体的决定将怎样被做出来：是双方都同意还是一个人说了算？
+
+It means writing things down: by articulating Stripe's culture, the startup can be clear to prospective joiners what the company's norms are.
+
+这意味着要把事情写下来：通过清晰地阐述Stripe的文化，这家初创公司可以让有望加入的人清楚地知道公司的规范是什么。
+
+It means saying things that other people are not saying, especially if those things are causing dysfunction.
+
+这意味着把其他人没有说的事情给说出来，特别是当这些事情会导致运行故障的时候。
+
+It also means being aware of your own behaviour and preferences.
+
+这还意味着要意识到自己的行为和偏好。
+
+Ms Hughes Johnson has long kept a “Working with Claire” document that spells out to new members of her team what they can expect: how she likes to take decisions, how quickly she will respond to messages, what she wants from them in a one-to-one meeting.
+
+长期以来，休斯·约翰逊一直保存着一份“与克莱尔一起工作”的文件，这份文件向她的团队新成员阐明了和她工作是什么样的：她喜欢如何做出决定，她多久之后会回复信息，她在一对一谈话中希望从他们那里得到什么。
+
+Her advice will not suit everyone.
+
+她的建议并非适合每个人。
+
+There will be too much emphasis on process for some corporate cultures.
+
+对于一些企业文化而言，她的做法过于强调流程。
+
+But there is something thought-provoking for every boss.
+
+但对于每一位老板来说，其中都有一些很有启发的东西。
+
+Your bedside table may groan with books on what Mr Djokovic can teach you about leadership or the lessons to be learned from mayonnaise.
+
+你的床头柜上可能堆满了德约科维奇能教给你什么领导力，或者从蛋黄酱中能学到什么教训的书籍。
+
+This book is trying to do something far more original and useful: turn you into a better manager.
+
+但这本书想做一些更独特、更有用的事情：那就是把你变成一位更好的经理。
+
+************更多打包资料请访问结网英语（www.jwbl.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每月更新打包： 
+http://www.jwbl.com/mansu/
+
+VOA常速英语新闻听力（VOA Standard English），每月更新打包： 
+http://www.jwbl.com/changsu/
+
+BBC英语新闻听力，每月更新打包： 
+http://www.jwbl.com/bbc/
+
+CNN英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cnn/
+
+CRI英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cri/
+
+NPR英语新闻听力，每月更新打包： 
+http://www.jwbl.com/npr/
+
+牛津书虫全套双语mp3+txt： 
+http://www.jwbl.com/shuchong/

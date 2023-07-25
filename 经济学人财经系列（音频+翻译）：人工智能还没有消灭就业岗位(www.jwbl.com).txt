@@ -1,0 +1,142 @@
+标题：经济学人财经系列（音频+翻译）：人工智能还没有消灭就业岗位
+
+听力内容：
+
+Finance & economics
+
+财经版块
+
+Boy cries wolf
+
+狼来了
+
+Generative AI is not yet killing jobs.
+
+生成式人工智能还没有消灭就业岗位。
+
+After astonishing breakthroughs in artificial intelligence, many people worry that they will end up on the economic scrapheap.
+
+人工智能取得惊人突破后，许多人担心他们最终会变成没有经济价值的废物。
+
+Global Google searches for “is my job safe?” have doubled in recent months, as people fear that they will be replaced with large language models (LLMs).
+
+最近几个月，“我的工作安全吗？”在谷歌全球的搜索量翻了一番，因为人们担心他们会被大型语言模型取代。
+
+Some evidence suggests that widespread disruption is coming.
+
+一些证据表明，大范围的颠覆即将到来。
+
+In a recent paper Tyna Eloundou of OpenAI and colleagues say that “around 80% of the US workforce could have at least 10% of their work tasks affected by the introduction of LLMs”.
+
+在最近的一篇论文中，OpenAI的泰娜·埃伦杜及其同事们称，“大约80%的美国劳动力可能有至少10%的工作任务会受到大型语言模型的影响”。
+
+Another paper suggests that legal services, accountancy and travel agencies will face unprecedented upheaval.
+
+另一篇论文认为，法律服务、会计和旅行社将面临前所未有的剧变。
+
+Economists, however, tend to enjoy making predictions about automation more than they enjoy testing them.
+
+然而，经济学家往往更喜欢对自动化做出预测，而不是检验他们的预测。
+
+In the early 2010s many of them loudly predicted that robots would kill jobs by the millions, only to fall silent when employment rates across the rich world rose to all-time highs.
+
+在2010年代初，许多经济学家放言预测，机器人将消灭数百万个工作岗位，但当富裕世界的就业率升至历史最高水平时，他们中的许多人却沉默了。
+
+Few of the doom-mongers have a good explanation for why countries with the highest rates of tech usage around the globe, such as Japan, Singapore and South Korea, consistently have among the lowest rates of unemployment.
+
+很少有末日论者能很好地解释，为什么日本、新加坡和韩国等全球科技使用率最高的国家，失业率却一直最低。
+
+Here we introduce our first attempt at tracking AI's impact on jobs.
+
+在这里，要介绍一下我们第一次跟踪人工智能对就业影响的尝试。
+
+Using American data on employment by occupation, we single out white-collar workers.
+
+利用美国按职业划分的就业数据，我们把白领单独挑了出来。
+
+These include people working in everything from back-office support and financial operations to copy-writers.
+
+这些人做着从后勤支持和财务运营到文案撰写的各种工作。
+
+White-collar roles are thought to be especially vulnerable to generative AI, which is becoming ever better at logical reasoning and creativity.
+
+白领被认为尤其容易受到生成式人工智能的影响，这种人工智能在逻辑推理和创造力方面正变得越来越强。
+
+However, there is as yet little evidence of an AI hit to employment.
+
+然而，到目前为止，几乎没有证据表明人工智能对就业造成了打击。
+
+In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the Covid-19 pandemic.
+
+2020年春季，白领工作占总就业岗位的比例有所上升，因为在新冠肺炎疫情暴发之初，许多从事服务业的人失去了工作。
+
+The white-collar share is lower today, as leisure and hospitality have recovered.
+
+如今，随着休闲和酒店业的复苏，白领工作的比例有所下降。
+
+Yet in the past year the share of employment in professions supposedly at risk from generative AI has risen by half a percentage point.
+
+然而，在过去的一年里，那些被认为有可能受到生成式人工智能威胁的职业的就业比例上升了0.5个百分点。
+
+It is, of course, early days.
+
+当然，现在还只是人工智能发展的初期。
+
+Few firms yet use generative-AI tools at scale, so the impact on jobs could merely be delayed.
+
+到目前为止，还没有几家公司大规模使用生成式人工智能工具，因此人工智能对就业的影响可能只是推迟了。
+
+Another possibility, however, is that these new technologies will end up destroying only a small number of roles.
+
+然而，另一种可能性是，这些新技术最终只会摧毁一小部分工作。
+
+While AI may be efficient at some tasks, it may be less good at others, such as management and working out what others need.
+
+虽然人工智能在某些任务上可能很高效，但在其他方面可能不太擅长，比如管理和弄明白他人需要什么。
+
+AI could even have a positive effect on jobs.
+
+人工智能甚至可能对就业产生积极影响。
+
+If workers using it become more efficient, profits at their company could rise which would then allow bosses to ramp up hiring.
+
+如果使用人工智能的员工变得更有效率，那么公司的利润可能会上升，这将使老板能够增加招聘。
+
+A recent survey by Experis, an IT-recruitment firm, points to this possibility.
+
+IT行业招聘公司Experis最近的一项调查指出了这种可能性。
+
+More than half of Britain's employers expect AI technologies to have a positive impact on their headcount over the next two years, it finds.
+
+该调查发现，超过一半的英国雇主预计人工智能技术将在未来两年对他们的员工人数产生积极影响。
+
+To see how it all shakes out, we will publish updates to this analysis every few months.
+
+为了看看结果如何，我们将每隔几个月发布一次更新的分析结果。
+
+But for now, a jobs apocalypse seems a way off.
+
+但就目前而言，就业末日似乎还遥遥无期。
+
+************更多打包资料请访问结网英语（www.jwbl.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每月更新打包： 
+http://www.jwbl.com/mansu/
+
+VOA常速英语新闻听力（VOA Standard English），每月更新打包： 
+http://www.jwbl.com/changsu/
+
+BBC英语新闻听力，每月更新打包： 
+http://www.jwbl.com/bbc/
+
+CNN英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cnn/
+
+CRI英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cri/
+
+NPR英语新闻听力，每月更新打包： 
+http://www.jwbl.com/npr/
+
+牛津书虫全套双语mp3+txt： 
+http://www.jwbl.com/shuchong/

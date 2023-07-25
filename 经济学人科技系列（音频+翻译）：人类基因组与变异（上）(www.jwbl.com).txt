@@ -1,0 +1,110 @@
+标题：经济学人科技系列（音频+翻译）：人类基因组与变异（上）
+
+听力内容：
+
+The human genome project, which published its results 20 years ago last month, was a landmark in biology.
+
+人类基因组计划于上个月公布了20年前的成果， 这是生物学上的一个里程碑。
+
+It was also somewhat misleadingly named.
+
+它的名字也有些误导人。
+
+After all, there is no such thing as “the” human genome.
+
+毕竟，不存在所谓的“人类基因组”。
+
+Instead, there are 8bn individual humans, each of whom share the vast majority of their DNA—but not all of it.
+
+相反，人类有80亿人，每个人的绝大部分DNA都是相同的，但不是全部。
+
+The genome published by the Human Genome Project in 2003 was put together from a dozen anonymous blood donors in and around Buffalo, in New York state.
+
+2003年的人类基因组计划公布的基因组是通过纽约州布法罗及其周边地区的十几个匿名献血者收集而成的。
+
+But there is more to life than Buffalo.
+
+但除了布法罗的基因组，其他生命还有更多基因组。
+
+That, in essence, is the motive behind the publication this week, in Nature, of a set of 47 new “reference” genomes taken from individuals on four continents (Africa, both of the Americas, and Asia).
+
+从本质上讲，这就是本周《自然》杂志发表的47个新“参考”基因组的动机，这些基因组来自四大洲(非洲、两个美洲和亚洲)的个体。
+
+The idea of the Human Pangenome Project, the organisation behind the publications, is that rather than relying on a single “reference” genome, it would be better to have several, and to ensure that between them they capture as much of the genetic diversity of Homo sapiens as possible.
+
+这些出版物背后的组织“人类泛基因组计划”的想法是，与其依赖单一的“参考”基因组，不如多找几个，并确保在它们之间尽可能多地捕捉到智人的遗传多样性。
+
+Compared with the total size of the genome, the amount of diversity in question is small.
+
+与基因组的总大小相比，需要讨论的多样性数量很小。
+
+Two people picked at random will share around 99.6% of their DNA.
+
+随机挑选的两个人的DNA大约有99.6%是相同的。
+
+That similarity is why the original genome produced by the Human Genome Project has proved so useful.
+
+正是这种相似性，证明了人类基因组计划产生的原始基因组如此有用。
+
+Its annotated strings of genetic code serve as a baseline.
+
+它将带有注释的遗传密码串作为基线。
+
+Other genomes can be compared with it to look for variations, whether harmful or beneficial.
+
+其他基因组可以与它进行比较，以寻找有害或有益的变异。
+
+Yet although humans are mostly alike, their differences do matter.
+
+然而，尽管人类在很大程度上是相似的，他们的差异仍然很重要。
+
+A relatively recent mutation, for instance, means adults with ancestors from northern Europe, or some parts of India and the Middle East, are more likely to be able to digest lactose (a sugar found in milk) than those from elsewhere.
+
+例如，一个相对较新的突变意味着，祖先来自北欧、印度和中东部分地区的成年人比来自其他地方的人更有可能消化乳糖(牛奶中发现的一种糖)。
+
+Which variation deserves to be treated as the standard?
+
+哪一种变体应该被视为标准?
+
+Sometimes, the limits of using a single reference have direct medical consequences.
+
+有时，使用单一参考的限制会产生直接的医疗后果。
+
+A set of genes called HLA, for instance, are involved in running the immune system.
+
+例如，一组被称为HLA的基因参与了免疫系统的运行。
+
+They are highly variable, and mutations in them have been associated with autoimmune diseases such as type-1 diabetes.
+
+它们是高度可变的，它们的突变与自身免疫性疾病(如1型糖尿病)有关。
+
+One study, published in 2015, found that, because many gene-sequencing technologies are not perfectly accurate, comparing readouts from the region with the single reference genome led to mistakes around 20% of the time.
+
+2015年发表的一项研究发现，由于许多基因测序技术并不完全准确，将一个区域的读数与单个参考基因组的读数进行比较会导致20%左右的误差。
+
+Another paper, published in 2022, found that relying on the reference genome meant that the details of some gene variants found in people with African ancestry, and seemingly associated with cancer, are poorly understood.
+
+2022年发表的另一篇论文发现，依赖该参考基因组意味着，人们对非洲血统人群中发现的一些基因变异的细节知之甚少，这些基因变异似乎与癌症有关。
+
+************更多打包资料请访问结网英语（www.jwbl.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每月更新打包： 
+http://www.jwbl.com/mansu/
+
+VOA常速英语新闻听力（VOA Standard English），每月更新打包： 
+http://www.jwbl.com/changsu/
+
+BBC英语新闻听力，每月更新打包： 
+http://www.jwbl.com/bbc/
+
+CNN英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cnn/
+
+CRI英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cri/
+
+NPR英语新闻听力，每月更新打包： 
+http://www.jwbl.com/npr/
+
+牛津书虫全套双语mp3+txt： 
+http://www.jwbl.com/shuchong/
