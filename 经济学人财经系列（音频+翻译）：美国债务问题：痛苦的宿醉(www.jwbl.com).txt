@@ -1,0 +1,138 @@
+标题：经济学人财经系列（音频+翻译）：美国债务问题：痛苦的宿醉
+
+听力内容：
+
+Finance & economics
+
+财经版块
+
+Nasty hangover
+
+痛苦的宿醉
+
+After debt-ceiling negotiations, America faces a debt deluge.
+
+债务上限谈判结束后，美国面临债务泛滥。
+
+Having flirted with madness, Congress decided to avert a sovereign default and allow the government to resume borrowing.
+
+在疯狂的边缘反复试探后，国会决定避免主权债务违约，并允许政府重新借款。
+
+But although the debt-ceiling negotiations are over, their aftershocks will ripple through financial markets for months to come.
+
+但是，尽管债务上限谈判已经结束，但这一事件的余震将在未来几个月波及整个金融市场。
+
+In order to stave off disaster, the Treasury spent much of the past six months running down its cash holdings, eventually reaching the point where it had almost nothing left.
+
+为了避免灾难，财政部在过去6个月的大部分时间里都在减少现金持有量，最终达到了现金几乎所剩无几的地步。
+
+Now it must scramble to replenish its cash, creating a potential hazard for the economy.
+
+现在，财政部必须抢着补充现金，这给经济带来了潜在的危险。
+
+The Treasury general account—the government's main account at the Federal Reserve, used for official payments—fell to just $23bn at the start of June, far less than the amount of net spending on a typical day.
+
+6月初，美国财政部的一般账户--政府在美联储的主要账户，用于官方支付--余额降至仅230亿美元，远低于平常一天的净支出金额。
+
+Normally the Treasury tries to maintain a balance of at least $500bn, enough to cover about a week of cash outflows.
+
+正常情况下，财政部将余额保持在至少5000亿美元，足以覆盖大约一周的现金流出。
+
+Thus its task is to rebuild buffers by selling bills and bonds (it will mostly rely on bills, because it is easier to raise cash quickly via short-term debt sales).
+
+因此，财政部的任务是通过出售票据和债券来重建缓冲资金(财政部将主要依靠票据，因为通过短期债务出售更容易快速筹集现金)。
+
+At the same time, it will have to sell even more paper to finance the government's deficit.
+
+与此同时，财政部将不得不出售更多的票据来弥补政府的赤字。
+
+The result will be a surge in issuance.
+
+其结果将是票据发行量激增。
+
+Mark Cabana of Bank of America forecasts that the Treasury will issue more than $1trn in bills over the next three months, roughly five times its total in an average summer.
+
+美国银行的马克·卡巴纳预测，未来三个月，财政部将发行逾1万亿美元的票据，大约是平常夏季发行总额的5倍。
+
+The concern is where the money will come from and, in particular, if debt sales will drain liquidity from other asset markets.
+
+人们担心的是资金将从哪里来，尤其是出售债务是否会耗尽其他资产市场的流动性。
+
+There are two main possible sources of cash, and each poses risks.
+
+主要有两种可能的现金来源，每一种都会带来风险。
+
+The first is money-market funds, which are flush at the moment, with more than $5trn invested in them.
+
+第一种是货币市场基金，目前资金充裕，投资其中的金额超过5万亿美元。
+
+In principle, these funds could hoover up the bulk of the new bills by simply paring the cash they place at the Federal Reserve via its reverse-repurchase (repo) facility.
+
+原则上，这些基金只需通过逆回购机制削减存放在美联储的现金，就可以吸收掉大部分新发的票据。
+
+For that to happen, though, the Treasury may have to offer higher coupon rates than the 5.05% yield on reverse repos.
+
+不过，要做到这一点，财政部可能必须提供高于5.05%的逆回购票面利率。
+
+Higher yields, in turn, could translate into higher funding costs for already strained regional banks—an unattractive prospect.
+
+更高的收益率继而可能为本已捉襟见肘的地区性银行带来更高的融资成本，这个前景并不理想。
+
+The second option is less attractive still.
+
+第二种选择还要更加不理想。
+
+Firms, pension funds and other investors may wind up being the biggest buyers of bills, which would mean moving money out of deposits into Treasuries, reducing the level of bank reserves in the financial system.
+
+公司、养老基金和其他投资者最终可能成为票据的最大买家，这意味着将资金从储蓄账户转移到政府债券，从而会降低金融系统中银行准备金的水平。
+
+Banks are sitting on excess reserves of about $3trn; it would not take much for these to fall to $2.5trn, a level seen by many as indicating reserve scarcity (going by the rule of thumb that banks should maintain reserves at about 10% of GDP).
+
+银行目前坐拥约3万亿美元的超额准备金，用不了多久，这一数额就会降至2.5万亿美元，许多人认为达到这一水平意味着准备金稀缺(根据经验法则，银行应将准备金维持在GDP的10%左右)。
+
+Such a development would raise uncomfortable questions about banking stability and could force lenders to offer higher deposit rates to recover reserves.
+
+这样的事态发展将引发对银行业稳定性的令人不安的质疑，并可能迫使银行提供更高的存款利率来恢复准备金的水平。
+
+A brief encounter with reserve scarcity would not necessarily spell disaster.
+
+暂时的准备金稀缺不一定会带来灾难。
+
+The Fed could provide liquidity support if required.
+
+如果需要，美联储可以提供流动性支持。
+
+And to the extent that money-market funds buy up more bills, pressure on bank reserves would be reduced.
+
+而且货币市场基金购买更多的票据，银行准备金的压力就会减轻。
+
+Either way, however, the flood of Treasury issuance will almost certainly add to market anxiety and volatility, increasing the risk that something, somewhere breaks.
+
+然而，无论是哪种情况，财政部大量发行票据都几乎肯定会加剧市场的焦虑和波动，从而增加某处的某事物崩溃的风险。
+
+It is one more thing to dislike about America's perennial debt-ceiling convulsions.
+
+对于反复出现的美国债务上限震荡，这让它招人讨厌的地方又多了一处。
+
+************更多打包资料请访问结网英语（www.jwbl.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每月更新打包： 
+http://www.jwbl.com/mansu/
+
+VOA常速英语新闻听力（VOA Standard English），每月更新打包： 
+http://www.jwbl.com/changsu/
+
+BBC英语新闻听力，每月更新打包： 
+http://www.jwbl.com/bbc/
+
+CNN英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cnn/
+
+CRI英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cri/
+
+NPR英语新闻听力，每月更新打包： 
+http://www.jwbl.com/npr/
+
+牛津书虫全套双语mp3+txt： 
+http://www.jwbl.com/shuchong/

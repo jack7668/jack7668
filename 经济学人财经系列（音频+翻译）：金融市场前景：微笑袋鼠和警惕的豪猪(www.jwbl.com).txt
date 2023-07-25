@@ -1,0 +1,182 @@
+标题：经济学人财经系列（音频+翻译）：金融市场前景：微笑袋鼠和警惕的豪猪
+
+听力内容：
+
+Finance & economics
+
+财经版块
+
+Quokkas v porcupines
+
+微笑袋鼠vs警惕的豪猪
+
+Animal spirits in financial markets are hopelessly divided.
+
+不同金融市场的情绪大相径庭。
+
+The quokka, an Australian marsupial about the size of a domestic cat, has full cheeks and a curved mouth that convey the impression—often to delighted tourists—that the critter is smiling.
+
+短尾矮袋鼠是一种澳大利亚有袋动物，大小和家猫差不多，有着胖胖的脸颊和弯弯的嘴巴，这给人们--通常是高兴的游客--留下了一种印象：它在微笑。
+
+It has been dubbed the happiest animal on Earth.
+
+它被称为地球上最快乐的动物。
+
+Yet these days it has competition from another species: the American stock investor.
+
+然而，这些天来，它面临着来自另一个物种的竞争：美国股票投资者。
+
+The S&P 500 has already risen by 14% this year.
+
+标准普尔500指数今年已经上涨了14%。
+
+An increase of another 10% would take the index back to its all-time high, set in January last year.
+
+再上涨10%将使该指数回到去年1月创下的历史最高水平。
+
+Excitement about artificial intelligence has lit a fire under companies seen as potential beneficiaries.
+
+对人工智能的兴奋唤醒了那些被视为潜在受益者的公司。
+
+Although climbing stock prices represent an impressive turnaround, they are not the most astonishing market shift.
+
+尽管不断攀升的股价代表形势大大好转，但这还不是最令人惊讶的市场转变。
+
+That award goes to the collapse in volatility.
+
+这一荣誉属于波动性的暴跌。
+
+In the past 12 months the VIX, an index that measures expected volatility in stock prices, using the cost of insuring against extreme moves, has declined by more than half, falling from around 30 to 13.
+
+在过去12个月里，波动率指数下跌了一半以上，从30左右降至13。波动率指数用对极端波动的保险成本来衡量股价的预期波动性。
+
+The last time it was so depressed was in early 2020, before the disruption of covid-19, when concerns about stagnation were more common than worries about inflation.
+
+波动率上一次如此低迷还是在疫情暴发前的2020年初，当时对经济停滞的担忧比对通胀的担忧更为普遍。
+
+Considering that the VIX is sometimes referred to as the “fear gauge”, its low level suggests a quokka-like placidity in the stockmarket.
+
+波动率指数有时被称为“恐惧衡量指标”，低水平的波动率表明股市出现了一种矮袋鼠式的平静。
+
+This outlook is all the more astonishing given the surfeit of things about which an investor could worry.
+
+考虑到投资者有很多事情可以担心，这种前景就更加令人震惊。
+
+There is, for instance, considerable uncertainty about the Federal Reserve's next move, which would be a good reason for investors to want a little more protection.
+
+例如，美联储的下一步行动存在相当大的不确定性，这会让投资者有理由希望得到更多保护。
+
+When the S&P 500 touched an earlier peak in 2021—a period of higher volatility—the federal funds rate sat at zero (it is now 5%) and ten-year Treasury yields at 1.5% (now 3.7%).
+
+当标准普尔500指数在2021年（这一时期波动率更大）达到较早的一个峰值时，联邦基金利率为零(现在为5%)，10年期美国国债收益率为1.5%(现在为3.7%)。
+
+Moreover, high rates may prompt something else to break.
+
+此外，高利率可能会促使其他一些东西崩溃。
+
+Recent ructions in American banking were hardly on the radar-screens of investors until days before Silicon Valley Bank and Signature Bank went bust.
+
+直到硅谷银行和签名银行倒闭的前几天，美国银行业最近的动荡才被投资者注意到。
+
+The failure of another lender, First Republic, came at the beginning of May.
+
+另一家银行第一共和银行在5月初倒闭。
+
+Today's optimism makes it hard to remember that those troubles were so recent.
+
+今天的乐观情绪让人很难想起这些问题是最近才发生的。
+
+Yet there is another species that looks rather less placid.
+
+然而，还有一种动物看起来不那么平静。
+
+If stock investors are the quokkas of the financial kingdom, bond investors are the porcupines: wary and naturally defensive.
+
+如果说股票投资者是金融王国的矮袋鼠，那么债券投资者就是豪猪：警惕且天生具有防御性。
+
+The decline of the VIX stands in stark contrast to its equivalent in the Treasury market.
+
+波动率指数的下跌与美国国债市场的波动率指数形成鲜明对比。
+
+Although the move index, which tracks the price of insuring against bond-market volatility, has declined from a 13-year high in March, it is still twice as high as it was pre-covid.
+
+尽管跟踪对债券市场波动的保险成本的指数从3月份的13年以来的高点回落，但仍是疫情前的两倍。
+
+Bond investors remain far from convinced that the good times have returned.
+
+债券投资者仍无法确信好日子已经回归。
+
+The divergence in sentiment between the quokkas and porcupines is very different from the early stages of the pandemic, when stocks were extremely volatile and government bonds far less so.
+
+矮袋鼠和豪猪之间的情绪差异与疫情暴发初期有很大不同，当时股市波动极大，政府债券的波动要小得多。
+
+Back then, investors were preoccupied with covid's economic fallout, the development and deployment of vaccines, and the pace of economic reopening.
+
+当时，投资者一心关注新冠疫情的经济后果、疫苗的研发和部署以及经济重新开放的速度。
+
+Then inflation picked up and the Fed's actions became the overwhelming focus.
+
+然后，通胀回升，美联储的行动成为压倒一切的焦点。
+
+It might be tempting to observe the difference and judge that either the bond or stockmarket must be wrong.
+
+现在人们会忍不住观察股市和债券市场的不同之处，并判断债券和股市，其中一个肯定出错了。
+
+But that would not be quite right.
+
+但这个判断并不完全正确。
+
+If artificial intelligence emerges as a transformative force for the bottom line of major technology companies, but not for economy-wide growth, it would be a tremendous boon for investors in shares and mean little for government bonds.
+
+如果人工智能成为大型科技公司利润的变革性力量，而不是对整个经济的增长进行变革，那么人工智能会让股票投资者极大地受益，对政府债券来说却意义不大。
+
+The problem is that such an outcome is far from assured—and investors are beginning to price stocks based on earnings that are unlikely to materialise any time soon.
+
+问题是，这样的结果远非板上钉钉，而投资者已经开始根据短期内不太可能实现的盈利来为股票定价。
+
+The price-to-earnings ratio of the S&P 500, based on expected earnings over the next 12 months, has climbed from below 16 late last year to 19 now.
+
+基于未来12个月预期收益的标准普尔500指数的市盈率已从去年年底的不到16倍攀升至现在的19倍。
+
+This is still below the highs set during the pandemic, when earnings expectations were smothered by lockdowns and restrictions, but is higher than at any other point in the past two decades.
+
+这仍低于疫情期间创下的高点，当时盈利预期受到封控和各种限制的压制，但高于过去20年的任何时候。
+
+What the divergence in animal spirits does say is that investors in the stockmarket—mistakenly or not—have left behind concerns that preoccupied them just a couple of months ago.
+
+两种动物情绪的差异确实表明，股市的投资者--无论是出于正确还是错误的判断--已经把仅仅几个月前还让他们忧心忡忡的问题抛在了脑后。
+
+They have traded their manifold worries for an optimistic narrative about artificial intelligence.
+
+他们已经放下了种种担忧，转而对人工智能持乐观态度。
+
+The rosy outlook suggested by the lack of volatility is ultimately a judgment not just that the new technology will become a revolutionary moneymaker for America's listed companies, but that the Fed's decisions will not shake the financial system again and that the economy will withstand the impact of interest-rate rises.
+
+波动性较小表明了一种乐观前景，这归根结底是一种判断，即人工智能将成为美国上市公司革命性的摇钱树，而且美联储的决定将不会再次对金融体系产生震动，经济将经受住加息的影响。
+
+As things stand, it looks like a bold bet.
+
+就目前情况来看，这种判断似乎是一次大胆的赌注。
+
+************更多打包资料请访问结网英语（www.jwbl.com）************
+
+VOA慢速英语新闻听力（VOA Special English），每月更新打包： 
+http://www.jwbl.com/mansu/
+
+VOA常速英语新闻听力（VOA Standard English），每月更新打包： 
+http://www.jwbl.com/changsu/
+
+BBC英语新闻听力，每月更新打包： 
+http://www.jwbl.com/bbc/
+
+CNN英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cnn/
+
+CRI英语新闻听力，每月更新打包： 
+http://www.jwbl.com/cri/
+
+NPR英语新闻听力，每月更新打包： 
+http://www.jwbl.com/npr/
+
+牛津书虫全套双语mp3+txt： 
+http://www.jwbl.com/shuchong/
